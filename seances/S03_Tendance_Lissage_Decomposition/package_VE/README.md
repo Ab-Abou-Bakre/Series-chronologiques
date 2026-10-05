@@ -2,7 +2,7 @@
 
 Master MLIA & MSAM — Faculté des Sciences de Tétouan
 
-- [TD — énoncé PDF](01_TD_LaTeX/TD_Chapitre2_Etudiant.pdf)
+- [TD — énoncé PDF](01_TD/TD_Seance_03_Etudiant.pdf)
 - [Fiche TP — PDF](02_TP_Python/Fiche_TP_CO2_MaunaLoa.pdf)
 - [Notebook étudiant](02_TP_Python/TP_CO2_MaunaLoa_Etudiant.ipynb)
 - [Données et provenance](03_Donnees/)
